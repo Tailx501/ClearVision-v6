@@ -3,7 +3,7 @@
  * @author ClearVision Team
  * @version 6.9.0
  * @description Highly customizable theme for BetterDiscord.
- * @source https://github.com/Tailx501/ClearVision-v6
+ * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
  * @invite dHaSxn3
  */
@@ -11,7 +11,7 @@
 /* Credits to Zerthox for making the original theme. */
 
 /* IMPORT CSS */
-@import url(https://raw.githubusercontent.com/Tailx501/ClearVision-v6/refs/heads/master/ClearVision_v6.theme.css);
+@import url(https://clearvision.github.io/ClearVision-v6/main.css);
 
 /* SETTINGS */
 :root {
@@ -34,7 +34,6 @@
   --code-font: FOT-Kurokane Std, FOT-Kurokane Std, FOT-Kurokane Std, FOT-Kurokane Std, monospace; /* font for codeblocks (font must be installed) [default: FOT-Kurokane Std, FOT-Kurokane Std, FOT-Kurokane Std, FOT-Kurokane Std, monospace] */
   --text-normal: rgb(220, 221, 222); /* color of default discord text */
   --text-muted: rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
-  --server-listing-width: 126px; /* app server listing width [default: 62px] */
   --channels-width: 220px; /* channel list width (240px for Discord default) [default: 220px] */
   --members-width: 240px; /* member list width [default: 240px] */
 
